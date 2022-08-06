@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: resources/images/h_character.svg</li>
+<li>RequestId: 8WPYV7GWRZ6S9BWA</li>
+<li>HostId: JXMhPFkh6HrCdmLPGTlpWGdVRavSgPmbDBIRz2RehGmh2KPR0LYJOU+sUyG343wgn4qdfLjwJXU=</li>
+</ul>
+<hr/>
+</body>
+</html>
